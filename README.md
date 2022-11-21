@@ -44,4 +44,3 @@ The overall run time complexity should be O(log (m+n)).
  
  ***
 
-### ※ Follow-up: Can you come up with an algorithm that is less than O(n2) time complexity?
